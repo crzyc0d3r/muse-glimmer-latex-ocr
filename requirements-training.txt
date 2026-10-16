@@ -1,0 +1,9 @@
+-r requirements.txt
+# Install the CUDA-compatible PyTorch build first, following the upstream guide.
+unsloth
+transformers==5.15.0
+trl==0.22.2
+datasets==4.3.0
+accelerate
+bitsandbytes
+peft

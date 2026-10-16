@@ -1,0 +1,2 @@
+-r requirements-training.txt
+streamlit>=1.40,<2

@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+artifacts/
+data/
+*.safetensors
+*.bin
+*.pt
+*.pth
+.cache/
+.streamlit/secrets.toml
